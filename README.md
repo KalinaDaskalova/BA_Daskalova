@@ -1,5 +1,8 @@
 # BA_Daskalova
 
+Topic:
+Group Navigation with Computer-Controlled Companions Through an Immersive, Architectural Virtual Environment
+
 
 Summary of the bachelor thesis:
 The thesis consists of a city tour simulated in virtual reality. The user wears a head-mounted display and is immersed into the virtual world, where they
